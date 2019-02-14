@@ -1,0 +1,5 @@
+git init
+git add . если написал точку он добавит все файлы в папке
+git add file_name ну ты понял ебанат
+git commit -m "Алем шлюха"
+git push или git push -u origin master 
